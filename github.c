@@ -10,4 +10,6 @@ void main(){
         if(num % i == 0)
             sum += i;
     }
+
+    
 }

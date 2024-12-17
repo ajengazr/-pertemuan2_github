@@ -11,5 +11,7 @@ void main(){
             sum += i;
     }
 
+    printf("ada");
+
     
 }
